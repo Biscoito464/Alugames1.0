@@ -1,7 +1,7 @@
 let jogosAlugados = 0;
 
 
-function contarEExibirJogosAlugados() {
+function contarExibirJogosAlugados() {
     console.log(`Total de jogos alugados: ${jogosAlugados}`);
 }
 
