@@ -26,7 +26,7 @@ function alterarStatus(id) {
     }
 
 
-    contarEExibirJogosAlugados();
+    contarExibirJogosAlugados();
 }
 
 
